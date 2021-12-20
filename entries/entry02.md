@@ -24,7 +24,7 @@ Throughout the Engineering Design Process, I am currently brainstorm possible so
 12
 13  print(row["counter"])
 ```
-Line 1 gets data from CSV (Comma Separated Values library). Line 3 imports SQL so that it can be linked with Python. Line 5 creates a variable called db (database) and opens up the database. Line 7 creates a variable called title where it asks the user for a title while removing any whitespace with `.strip()`. Line 9 returns a list (rows) where `.execute()` takes in SQL command from the original Python. Line 11 grabs the first row from the rows that were executed. Line 13 prints out the row's first value.
+Line 1 gets data from CSV (Comma Separated Values library). Line 3 imports SQL so that it can be linked with Python. Line 5 creates a variable called db (database) and opens up the database. Line 7 creates a variable called title where it asks the user for a title while removing any whitespace with `.strip()`. Line 9 returns a list (rows) where `.execute()` takes in SQL command from the original Python. The SQL keyword `SELECT` is used to select data from a database where the data returned is stored in a result table. The SQL `*` is used to specify that the query should return all columns of the queried tables. The SQL keyword `WHERE` is used to filter records and extract records that fulfill a specified condition only. Line 11 grabs the first row from the rows that were executed. Line 13 prints out the row's first value.
 _____
 ***SKILLS:***
 <br>
