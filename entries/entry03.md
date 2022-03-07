@@ -71,6 +71,18 @@ body {
 ```
 When I was adding the columns to my project page, I realized that there isn't a color difference between the body and the column itself. Therefore, I incorporated some color code in the CSS file to better distinguish the columns. 
 
+After conversing with my partner about Flask, I've learned that Flask is a micro web framework written in Python. The basic `app.py` templet is below:
+``` python 
+1 from flask import Flask, render_template, request
+2 
+3 app = Flask(__name__)
+4 
+5 
+6 @app.route("/")
+7 def index():
+8     return render_template("index.html")
+```
+Line 1 imports Flask from the flask libraries. `app` in line 3 is the file name which is also the flask variable name. Line 6 is a function that labels for the `/` route where `@app.route` is from Flask and the `@` modifies the function. Line 7 is a function that with render the template from the index.html file.
 _____
 ***SKILLS:***
 <br>
