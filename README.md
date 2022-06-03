@@ -5,7 +5,7 @@ by Nina Li
 The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a Study Guide for APCSA. This blog will walk through my process of independently studying CS50 in order to make the study guide.
 
 ## Links
 
