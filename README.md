@@ -2,16 +2,16 @@
 by Nina Li
 
 ## Context
-The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
+The “Freedom Project” for APCSA is all about learning a tool to create a project. The purpose of this blog is to keep track of the "journey" in addition to learning the tool and actually creating the project itself.
 
 ## Content
-For my project, I am making a Study Guide for APCSA. This blog will walk through my process of independently studying CS50 in order to make the study guide.
+For my project, I am making a Study Guide for APCSA. This blog will walk through my process of independently studying CS50 (Python and Flask) in order to make the study guide containing notes on the APCSA course.
 
 ## Links
 
-Product
+[Product](http://sarahz2476.pythonanywhere.com)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1Ts-R3d-wly-ERXzzUwvy3dt_8hbUBbGSlEaOZzce7XQ/edit#slide=id.g12c69b5a339_0_0)
 
 ## Implications
 X
